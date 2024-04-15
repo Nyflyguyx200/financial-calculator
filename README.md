@@ -24,7 +24,8 @@ The Financial Calculator is a Java Application that provides a set of finanical 
 
 
 
-![FutureValueCalculatorOutput](https://github.com/Nyflyguyx200/financial-calculator/assets/114933451/c5adafe3-aa64-473c-b3dd-db81127d0433)
+![FutureValueCalculatorOutput](https://github.com/Nyflyguyx200/financial-calculator/assets/114933451/5cfc62ef-f0ae-4ab5-abfa-cc1e63b40596)
+
 
 ## Interesting Code
 double futureValue = double futureValue = deposit * Math.pow(1 + annualInterestRate / n, n * years) + 1.18; 
