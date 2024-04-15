@@ -20,7 +20,8 @@ The Financial Calculator is a Java Application that provides a set of finanical 
 - Comparison Operators
 
 ## Screenshots
-![MortgageCalculatorOutput](https://github.com/Nyflyguyx200/financial-calculator/assets/114933451/cc98fa5e-3d70-468a-9043-1aa2ff2acdbf)
+![MortgageCalculatorOutput](https://github.com/Nyflyguyx200/financial-calculator/assets/114933451/631ebea2-bfcc-4c05-8d62-ec314474a572)
+
 
 
 ![FutureValueCalculatorOutput](https://github.com/Nyflyguyx200/financial-calculator/assets/114933451/c5adafe3-aa64-473c-b3dd-db81127d0433)
