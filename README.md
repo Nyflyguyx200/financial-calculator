@@ -18,6 +18,7 @@ The Financial Calculator is a Java Application that provides a set of finanical 
 - Static method
 - Data types(Primitive, non-primitive)
 - Comparison Operators
+- Compound Interest Formula(Broke the equation down by parts)
 
 ## Screenshots
 ![MortgageCalculatorOutput](https://github.com/Nyflyguyx200/financial-calculator/assets/114933451/631ebea2-bfcc-4c05-8d62-ec314474a572)
